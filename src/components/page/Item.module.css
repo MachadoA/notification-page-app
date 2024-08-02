@@ -1,0 +1,70 @@
+.dataItem{
+    width: 375px;
+    margin: 10px auto;
+    border-radius: 8px;
+    padding: 10px;
+    cursor: pointer;
+}
+.dataItem.active{
+    background-color: var(--color-very-light-grayish-blue);
+}
+.item{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.avatar {
+    width: 60px;
+    border-radius: 50%;
+    margin-bottom: 10px; 
+}
+
+.nameAvatar{
+    font-size: 18px;
+    color: var(--color-very-dark-blue);
+    font-weight: 700;
+}
+
+.notificationTrue{
+    display: inline-flex;
+    margin-left: 5px;
+    width: 10px;
+    height: 10px;
+    background-color: var(--red);
+    border-radius: 50%;
+    margin-bottom: 2px;
+}
+
+.play{
+    font-weight: bold;
+    color: var(--blue);
+    font-size: 17px;
+}
+.playInformation{
+    font-weight: bold;
+    color: var(--color-dark-grayish-blue);
+    font-size: 17px;
+}
+
+.textMessage{
+    border: 1px solid var(--color-light-grayish-blue-2);
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 15px;
+    margin-left: 70px;
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--color-dark-grayish-blue);
+}
+
+.about{
+    color: var(--color-dark-grayish-blue);
+    font-weight: 500;
+}
+
+@media (min-width: 746px) {
+    .dataItem{
+        width: 680px;
+    }
+}

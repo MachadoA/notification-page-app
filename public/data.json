@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "image": "/images/avatar-mark-webber.webp",
+        "name": "Mark Webber",
+        "message": "reacted to your recent post ",
+        "category": " My first tournament today!",
+        "date": "1m ago",
+        "text": "",
+        "notification": true,
+        "idCategory": 1
+    },
+    {
+        "id": 2,
+        "image": "/images/avatar-angela-gray.webp",
+        "name": "Angela Gray",
+        "message": "followed you",
+        "category": "",
+        "text": "",
+        "date": "5m ago",
+        "notification": true,
+        "idCategory": 3
+    },
+    {
+        "id": 3,
+        "image": "/images/avatar-jacob-thompson.webp",
+        "name": "Jacob Thompson",
+        "message": "has joined your group ",
+        "category": "Chess Club",
+        "text": "",
+        "date": "1 day ago",
+        "notification": true,
+        "idCategory": 2
+    },
+    {
+        "id": 4,
+        "image": "/images/avatar-rizky-hasanuddin.webp",
+        "name": "Rizky Hasanuddin",
+        "message": "sent you a private message",
+        "category": "",
+        "text": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and. I'm already having lots of fun and improving my game.",
+        "date": "5 days ago",
+        "notification": false,
+        "idCategory": 3
+    },
+    {
+        "id": 5,
+        "image": "/images/avatar-kimberly-smith.webp",
+        "name": "Kimberly Smith",
+        "message": "commented on your picture",
+        "category": "",
+        "text": "",
+        "date": "1 week ago",
+        "notification": false,
+        "idCategory": 3
+    },
+    {
+        "id": 6,
+        "image": "/images/avatar-nathan-peterson.webp",
+        "name": "Nathan Peterson",
+        "message": "reacted to your recent post ",
+        "category": " 5 end-game strategies to increase your win rate",
+        "text": "",
+        "date": "2 weeks ago",
+        "notification": false,
+        "idCategory": 1
+    },
+    {
+        "id": 7,
+        "image": "/images/avatar-mark-webber.webp",
+        "name": "Anna Kim",
+        "message": "left the group ",
+        "category": "Chess Club",
+        "text": "",
+        "date": "2 weeks ago",
+        "notification": false,
+        "idCategory": 2
+    }
+]
